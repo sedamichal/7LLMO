@@ -1,1 +1,9 @@
-/.7LLMO
+/.7LLMO310/
+/__pycache__/
+/data/*model*.pt
+/data/wiki.full.aner.test.dst
+/data/wiki.full.aner.test.src
+/data/wiki.full.aner.train.dst
+/data/wiki.full.aner.train.src
+/data/wiki.full.aner.valid.dst
+/data/wiki.full.aner.valid.src
